@@ -11,6 +11,8 @@ public enum  ExceptionType {
 
     public int getCode() {
         return code;
+
+        //
     }
 
     public void setCode(int code) {
